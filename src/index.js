@@ -4,7 +4,7 @@ class Test {
 	foo() {
 		return 'bar';
 	}
-	BarProp() {
+	barProp() {
 		return 'foo';
 	}
 }
