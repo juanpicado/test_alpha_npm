@@ -5,7 +5,7 @@ class Test {
 		return 'bar';
 	}
 	barProp() {
-		return 'foo333dsjklajdksla333';
+		return 'foo333dsjklajdksladsadsa333';
 	}
 }
 module.exports = Test;
