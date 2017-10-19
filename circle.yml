@@ -30,6 +30,7 @@ test:
     - yarn run test
 deployment:
   production:
+    branch: master
     tag: /(v)?[0-9]+(\.[0-9]+)*/
     commands:
       - ./scripts/publish.sh
