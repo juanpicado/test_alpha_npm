@@ -33,3 +33,8 @@ deployment:
     tag: /(v)?[0-9]+(\.[0-9]+)*/
     commands:
       - ./scripts/publish.sh
+general:
+  branches:
+    ignore:
+      - gh-pages # list of branches to ignore
+      - /release\/.*/ # or ignore regexes
