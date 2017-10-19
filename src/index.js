@@ -5,7 +5,7 @@ class Test {
 		return 'bar';
 	}
 	barProp() {
-		return 'foo';
+		return 'foo333333';
 	}
 }
 module.exports = Test;
