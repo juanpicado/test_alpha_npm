@@ -5,7 +5,7 @@ class Test {
 		return 'bar';
 	}
 	barProp() {
-		return 'foo333dsjklajdksla333';
+		return 'version4.0.0';
 	}
 }
 module.exports = Test;
