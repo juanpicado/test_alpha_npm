@@ -1,6 +1,6 @@
 {
   "name": "test_alpha_npm",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "description": "this is just a dummy module to test automation deployment",
   "main": "src/index.js",
   "scripts": {
